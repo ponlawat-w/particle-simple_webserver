@@ -1,0 +1,21 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/particle,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=particle,visualstudiocode
+
+### Particle ###
+# Compiled output #
+
+###################
+
+*.bin
+
+### VisualStudioCode ###
+.vscode/*
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# End of https://www.toptal.com/developers/gitignore/api/particle,visualstudiocodev
